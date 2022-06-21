@@ -1,0 +1,41 @@
+Nombre del SO	Microsoft Windows 10 Home
+Versión	10.0.19044 Compilación 19044
+Descripción adicional del SO 	No disponible
+Fabricante del SO	Microsoft Corporation
+Nombre del sistema	DESKTOP-RH43RMJ
+Fabricante del sistema	To Be Filled By O.E.M.
+Modelo del sistema	To Be Filled By O.E.M.
+Tipo de sistema	x64-based PC
+SKU del sistema	To Be Filled By O.E.M.
+Procesador	AMD Ryzen 5 1600 Six-Core Processor, 3200 Mhz, 6 procesadores principales, 12 procesadores lógicos
+Versión y fecha de BIOS	American Megatrends Inc. P3.70, 13/11/2019
+Versión de SMBIOS	3.2
+Versión de controladora integrada	255.255
+Modo de BIOS	UEFI
+Fabricante de la placa base	ASRock
+Producto placa base	A320M-HDV R4.0
+Versión de la placa base	
+Rol de plataforma	Escritorio
+Estado de arranque seguro	Desactivado
+Configuración de PCR7	Enlace no posible
+Directorio de Windows	C:\WINDOWS
+Directorio del sistema	C:\WINDOWS\system32
+Dispositivo de arranque	\Device\HarddiskVolume4
+Configuración regional	México
+Capa de abstracción de hardware	Versión = "10.0.19041.1566"
+Nombre de usuario	DESKTOP-RH43RMJ\Tobias Galvez
+Zona horaria	Hora estándar de Argentina
+Memoria física instalada (RAM)	16,0 GB
+Memoria física total	15,4 GB
+Memoria física disponible	7,23 GB
+Memoria virtual total	30,9 GB
+Memoria virtual disponible	17,6 GB
+Espacio de archivo de paginación	15,5 GB
+Archivo de paginación	E:\pagefile.sys
+Protección de DMA de kernel	Desactivado
+Seguridad basada en virtualización	No habilitado
+Compatibilidad con cifrado de dispositivo	Razones del error de cifrado automático de dispositivo: No se puede usar TPM, No se admite un enlace PCR7, Error en la interfaz de prueba de seguridad de hardware y el dispositivo no está en modo de espera moderno, Se detectaron dispositivos o un bus compatible con DMA no permitidos, No se puede usar TPM
+Hyper-V - Extensiones de modo de monitor VM	Sí
+Hyper-V - Extensiones de traducción de dirección de segundo nivel	Sí
+Hyper-V - Virtualización habilitada en Firmware	Sí
+Hyper-V -Protección de ejecución de datos	Sí
