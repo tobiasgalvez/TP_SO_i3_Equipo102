@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Galvez Tobias 192.168.0.26 14:01
+=======
+Bianca Casetta 192.168.56.1 11:49
+Rojas Agustin 246.241.190.26 12:36
+>>>>>>> origin/Casetta
