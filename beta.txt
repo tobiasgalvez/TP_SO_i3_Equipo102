@@ -1,0 +1,38 @@
+Tobias Galvez 14:34
+Configuración IP de Windows
+
+
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::851a:67fc:1a06:e0d2%9
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de LAN inalámbrica Wi-Fi:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 9:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 10:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv6 . . . . . . . . . . : 2800:810:4b7:6b2::1001
+   Dirección IPv6 . . . . . . . . . . : 2800:810:4b7:6b2:2575:e48f:b58c:3cc2
+   Dirección IPv6 temporal. . . . . . : 2800:810:4b7:6b2:6016:f08f:5371:df78
+   Vínculo: dirección IPv6 local. . . : fe80::2575:e48f:b58c:3cc2%11
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.26
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::dad7:75ff:fe75:e211%11
+                                       192.168.0.1
