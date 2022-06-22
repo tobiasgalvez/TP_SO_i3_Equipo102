@@ -5,3 +5,17 @@ Casetta Bianca
 a- El master queda con todos los archivos realizados en las distintas ramas, ya que se hizo el merge, el cual permitió obtener en el main todos los archivos y/o datos
 b- Si
 c- Para poder hacer el merge en el punto 5 se utilizó el comando "git merge origin/Casetta --no-ff" y luego un "git push" 
+
+d-
+e-
+f-
+
+g-
+Se uso: 
+git clone https://github.com/tobiasgalvez/TP_SO_i3_Equipo102
+git checkout Galvez
+"Rojas Agustin 16:31" >> "beta.txt"
+ipconfig >> "beta.txt" 
+git add . 
+git commit -m "Punto 8"
+git push
