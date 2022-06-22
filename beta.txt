@@ -1,0 +1,85 @@
+Tobias Galvez 14:34
+Configuracion IP de Windows
+
+
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS especifico para la conexion. . :
+   Vinculo: direccion IPv6 local. . . : fe80::851a:67fc:1a06:e0d2%9
+   Direccion IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Mascara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de LAN inalambrica Wi-Fi:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS especifico para la conexion. . :
+
+Adaptador de LAN inalambrica Conexion de area local* 9:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS especifico para la conexion. . :
+
+Adaptador de LAN inalambrica Conexion de area local* 10:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS especifico para la conexion. . :
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS especifico para la conexion. . :
+   Direccion IPv6 . . . . . . . . . . : 2800:810:4b7:6b2::1001
+   Direccion IPv6 . . . . . . . . . . : 2800:810:4b7:6b2:2575:e48f:b58c:3cc2
+   Direccion IPv6 temporal. . . . . . : 2800:810:4b7:6b2:6016:f08f:5371:df78
+   Vinculo: direccion IPv6 local. . . : fe80::2575:e48f:b58c:3cc2%11
+   Direccion IPv4. . . . . . . . . . . . . . : 192.168.0.26
+   Mascara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::dad7:75ff:fe75:e211%11
+                                       192.168.0.1
+
+Rojas Agustin 16:31
+
+Configuracion IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS especifico para la conexion. . : fibertel.com.ar
+   V¡nculo: direccion IPv6 local. . . : fe80::6d6e:d0d7:8f5e:7c90%6
+   Direccion IPv4. . . . . . . . . . . . . . : 192.168.0.83
+   Mascara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.0.1
+
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS especifico para la conexion. . : 
+   Vinculo: direccion IPv6 local. . . : fe80::e95b:2047:6498:168%5
+   Direccion IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Mascara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Bianca Casetta 06:57
+
+Windows IP Configuration
+
+
+Ethernet adapter VirtualBox Host-Only Network:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::a861:f826:f50c:606%4
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::fc6a:bda4:9941:95c%10
+   IPv4 Address. . . . . . . . . . . : 192.168.1.111
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.1.1
+
+Ethernet adapter Ethernet 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
