@@ -1,0 +1,7 @@
+Galvez Tobias
+Rojas Agustin
+Casetta Bianca
+
+a- El master queda con todos los archivos realizados en las distintas ramas, ya que se hizo el merge, el cual permitió obtener en el main todos los archivos y/o datos
+b- Si
+c- Para poder hacer el merge en el punto 5 se utilizó el comando "git merge origin/Casetta --no-ff" y luego un "git push" 
