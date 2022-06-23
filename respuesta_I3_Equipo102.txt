@@ -6,9 +6,16 @@ a- El master queda con todos los archivos realizados en las distintas ramas, ya 
 b- Si
 c- Para poder hacer el merge en el punto 5 se utilizó el comando "git merge origin/Casetta --no-ff" y luego un "git push" 
 
-d-
-e-
-f-
+d- Comparadas con la rama master, no quedan actualizadas.
+e- No hubo problemas para hacer el merge.
+f- Comandos utilizados:
+git clone https://github.com/tobiasgalvez/TP_SO_i3_Equipo102.git
+git checkout Galvez
+printf "\nBianca Casetta 06:57\n" >> beta.txt
+ipconfig >> beta.txt
+git add .
+git commit -m "punto 7"
+git push
 
 g-
 Se uso: 
